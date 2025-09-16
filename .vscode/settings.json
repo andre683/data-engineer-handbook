@@ -5,7 +5,7 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "data_expert_data_modeling",
+            "name": "data_expert_data_modeling$",
             "username": "postgres",
             "password": "postgres",
             "database": "postgres"
